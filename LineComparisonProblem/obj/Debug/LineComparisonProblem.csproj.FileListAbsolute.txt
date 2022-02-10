@@ -1,0 +1,8 @@
+D:\bridgelabz\.net\Felloship.net\LineComparisonProblem\bin\Debug\LineComparisonProblem.exe.config
+D:\bridgelabz\.net\Felloship.net\LineComparisonProblem\bin\Debug\LineComparisonProblem.exe
+D:\bridgelabz\.net\Felloship.net\LineComparisonProblem\bin\Debug\LineComparisonProblem.pdb
+D:\bridgelabz\.net\Felloship.net\LineComparisonProblem\obj\Debug\LineComparisonProblem.csproj.AssemblyReference.cache
+D:\bridgelabz\.net\Felloship.net\LineComparisonProblem\obj\Debug\LineComparisonProblem.csproj.SuggestedBindingRedirects.cache
+D:\bridgelabz\.net\Felloship.net\LineComparisonProblem\obj\Debug\LineComparisonProblem.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.net\Felloship.net\LineComparisonProblem\obj\Debug\LineComparisonProblem.exe
+D:\bridgelabz\.net\Felloship.net\LineComparisonProblem\obj\Debug\LineComparisonProblem.pdb

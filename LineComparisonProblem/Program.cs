@@ -4,15 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeWageOperation
+namespace LineComparisonProblem
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to EmployeeWageOperation");
-
-            EmployeeWage.EmployeeAttendance();
+            Console.WriteLine("Welcome to LineComparisonProblem");
             Console.ReadKey();
         }
     }

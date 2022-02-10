@@ -5,7 +5,12 @@
       "ProjectGuid": "727b6193-144a-49c0-b18b-fef3baf905bd",
       "DisplayName": "EmployeeWageOperation",
       "ColorIndex": 0
+    },
+    "f45fe45f-343c-4b4d-b70a-0ca03d032cc3": {
+      "ProjectGuid": "f45fe45f-343c-4b4d-b70a-0ca03d032cc3",
+      "DisplayName": "EmployeWage",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
