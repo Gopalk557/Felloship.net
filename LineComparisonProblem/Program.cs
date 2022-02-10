@@ -16,6 +16,14 @@ namespace LineComparisonProblem
             CalculateLineLength line2 = new CalculateLineLength(1, 2, 4, 5);
             line2.CalculateLength();
             Console.ReadLine();
+            if (line1.Equals(line2))
+            {
+                Console.WriteLine("Lines are  equal \n");
+            }
+            else
+            {
+                Console.WriteLine("Lines are not equal \n");
+            }
             Console.ReadKey();
         }
     }
