@@ -1,0 +1,8 @@
+D:\bridgelabz\.net\Felloship.net\EmployeeWageOperation\bin\Debug\EmployeeWageOperation.exe.config
+D:\bridgelabz\.net\Felloship.net\EmployeeWageOperation\bin\Debug\EmployeeWageOperation.exe
+D:\bridgelabz\.net\Felloship.net\EmployeeWageOperation\bin\Debug\EmployeeWageOperation.pdb
+D:\bridgelabz\.net\Felloship.net\EmployeeWageOperation\obj\Debug\EmployeeWageOperation.csproj.AssemblyReference.cache
+D:\bridgelabz\.net\Felloship.net\EmployeeWageOperation\obj\Debug\EmployeeWageOperation.csproj.SuggestedBindingRedirects.cache
+D:\bridgelabz\.net\Felloship.net\EmployeeWageOperation\obj\Debug\EmployeeWageOperation.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.net\Felloship.net\EmployeeWageOperation\obj\Debug\EmployeeWageOperation.exe
+D:\bridgelabz\.net\Felloship.net\EmployeeWageOperation\obj\Debug\EmployeeWageOperation.pdb

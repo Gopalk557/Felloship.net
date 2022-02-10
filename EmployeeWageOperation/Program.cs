@@ -10,7 +10,9 @@ namespace EmployeeWageOperation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to EmployeeWageOperation");
+            //Console.WriteLine("Welcome to EmployeeWageOperation");
+            //Console.ReadKey();
+            EmployeeWage.EmployeeAttendance();
         }
     }
 }
