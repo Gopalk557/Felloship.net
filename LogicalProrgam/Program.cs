@@ -11,6 +11,7 @@ namespace LogicalProrgam
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Logical Program");
+            FibonicSerease.Serease();
             Console.ReadKey();
         }
     }
