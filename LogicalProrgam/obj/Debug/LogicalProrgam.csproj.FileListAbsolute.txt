@@ -1,0 +1,8 @@
+D:\bridgelabz\.net\Felloship.net\LogicalProrgam\bin\Debug\LogicalProrgam.exe.config
+D:\bridgelabz\.net\Felloship.net\LogicalProrgam\bin\Debug\LogicalProrgam.exe
+D:\bridgelabz\.net\Felloship.net\LogicalProrgam\bin\Debug\LogicalProrgam.pdb
+D:\bridgelabz\.net\Felloship.net\LogicalProrgam\obj\Debug\LogicalProrgam.csproj.AssemblyReference.cache
+D:\bridgelabz\.net\Felloship.net\LogicalProrgam\obj\Debug\LogicalProrgam.csproj.SuggestedBindingRedirects.cache
+D:\bridgelabz\.net\Felloship.net\LogicalProrgam\obj\Debug\LogicalProrgam.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.net\Felloship.net\LogicalProrgam\obj\Debug\LogicalProrgam.exe
+D:\bridgelabz\.net\Felloship.net\LogicalProrgam\obj\Debug\LogicalProrgam.pdb
